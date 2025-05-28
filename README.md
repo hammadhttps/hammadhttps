@@ -1,6 +1,4 @@
- # 💫 About Me:
 # Hi there! 👋 I'm Hammad  <br>💻 Passionate about building innovative solutions and learning new technologies <br>
-
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/hammad12/) 
