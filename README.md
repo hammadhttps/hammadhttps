@@ -1,4 +1,4 @@
- # 👋 Hi there! I'm Hammad  
+# 👨‍💻 I'm Hammad — passionate about tech, code, and continuous learning.
 🚀 Passionate about learning new technologies and building cool things with code!
 
 ---
@@ -30,7 +30,9 @@
 ### Backend & Databases  
 ![NodeJS](https://img.shields.io/badge/Node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
+![SQL](https://img.shields.io/badge/SQL-%2300C7B7.svg?style=for-the-badge&logo=sqlite&logoColor=white)
 ![Microsoft SQL Server](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-%2347A248.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 
 ### DevOps & Deployment  
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
