@@ -4,7 +4,7 @@
 ---
 
 ## 🧠 About Me  
-- 🎓 Computer Science Student at FAST NUCES  
+- 🎓 Software Engineering Student at FAST NUCES  
 - 🧩 Exploring Full-Stack Development  
 - 🌱 Currently learning: **Backend Development** & **DevOps**  
 - ⚙️ Building projects, writing clean code, and deploying it the right way!
