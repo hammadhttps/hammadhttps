@@ -1,4 +1,4 @@
-# Hi there! 👋 I'm Hammad <br> Passionate about building innovative solutions and learning new technologies <br>
+# Hi there!  I'm Hammad <br> Passionate about building innovative solutions and learning new technologies <br>
 
 
 # 💻 Tech Stack:
