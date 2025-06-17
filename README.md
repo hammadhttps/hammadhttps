@@ -1,17 +1,18 @@
-# 👨‍💻 I'm Hammad — passionate about tech, code, and continuous learning.
-🚀 Passionate about learning new technologies and building cool things with code!
+ # 💻 Hey, I'm Hammad — passionate about tech, code, and continuous learning.
+🚀 I love diving into new technologies and building cool things that make an impact!
 
 ---
 
 ## 🧠 About Me  
 - 🎓 Software Engineering Student at FAST NUCES  
 - 🧩 Exploring Full-Stack Development  
-- 🌱 Currently learning: **Backend Development** & **DevOps**  
+- 🌱 Currently learning: **Backend Development**, **DevOps**, and **AI/ML**  
 - ⚙️ Building projects, writing clean code, and deploying it the right way!
 
 ---
 
 ## 💻 Tech Stack  
+
 ### Languages  
 ![C](https://img.shields.io/badge/C-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
@@ -53,9 +54,6 @@
 
 ## 📈 GitHub Stats  
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=hammadhttps&theme=github_dark&show_icons=true&hide_border=false&count_private=true" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=hammadhttps&theme=github-dark&hide_border=false" width="48%" />
-  <br/><br/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hammadhttps&theme=github_dark&hide_border=false&layout=compact" width="60%" />
 </div>
 
