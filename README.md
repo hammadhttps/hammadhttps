@@ -60,7 +60,7 @@
 ---
 
 # 🔥 GitHub Streak
-[![GitHub Streak](https://streak-stats.demolab.com?user=hammadhttps&theme=tokyonight&hide_border=false)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=hammadhttps&theme=swift)](https://git.io/streak-stats)
 
 ---
 
