@@ -1,3 +1,4 @@
+![](https://komarev.com/ghpvc/?username=hammadhttps)
  # 💫 About Me:
 🌱 I’m currently learning **Backend Engineering** — focusing on building scalable, production-ready systems.
 
