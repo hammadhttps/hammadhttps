@@ -87,11 +87,6 @@
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=hammadhttps&theme=solarized_dark" width="49%" />
 </p>
 
-<!-- Third row: General Stats & Productive Time -->
-<p align="center">
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=hammadhttps&theme=solarized_dark" width="49%" />
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=hammadhttps&theme=solarized_dark&utcOffset=5" width="49%" />
-</p>
 
 <!-- GitHub Streak -->
 <p align="center">
@@ -100,10 +95,7 @@
 
 ---
 
-### ✍️ Developer Quote  
-<p align="center"><em>"First, solve the problem. Then, write the code." — John Johnson</em></p>
 
----
 
 
 
