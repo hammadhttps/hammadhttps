@@ -1,11 +1,11 @@
- <!-- Profile Views Badge -->
+<!-- Profile Views Badge -->
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=hammadhttps&style=flat-square&color=brightgreen" alt="Profile Views" />
 </p>
 
 <!-- About Me -->
 <h1 align="center">Hi, I'm Hammad </h1>
-<p align="center">🌱 I’m currently learning <strong>Backend Engineering</strong> — focusing on building scalable, production-ready systems.</p>
+<p align="center">🌱 I'm currently learning <strong>Backend Engineering</strong> — focusing on building scalable, production-ready systems.</p>
 
 ---
 
@@ -80,6 +80,15 @@
 
 # 📈 GitHub Stats
 
+<!-- Stars Earned Section -->
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hammadhttps&layout=compact&theme=solarized-dark&hide_border=true" width="48%" />
+</p>
+
+<!-- Stars Earned Badge -->
+<p align="center">
+  <img src="https://img.shields.io/github/stars/hammadhttps?style=for-the-badge&logo=github&logoColor=white&color=yellow&label=Total%20Stars%20Earned" />
+</p>
 
 <!-- Second row: Repos per Language & Most Used Language -->
 <p align="center">
@@ -87,16 +96,11 @@
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=hammadhttps&theme=solarized_dark" width="49%" />
 </p>
 
-
 <!-- GitHub Streak -->
 <p align="center">
   <img src="https://streak-stats.demolab.com/?user=hammadhttps&theme=solarized_dark&hide_border=true" />
 </p>
 
 ---
-
-
-
-
 
 <!-- Proudly crafted with care 💻 -->
